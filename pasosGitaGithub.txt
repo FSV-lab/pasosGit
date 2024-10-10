@@ -1,0 +1,40 @@
+#Primer paso a git a gihub
+Descargar el git en un sitio oficial a tu dispositivo 
+
+#Segundo paso Instalar 
+Instalacion del git incluyendo su Path 
+
+#Tercer paso Subir un Repositorio
+Ubicate en tu carpeta local de tu dispositivo o computadora
+a-Clic derecho Opebn Git Bash here
+b-Se abre una consola de comandos
+c-Escriba: git init  
+//Este comando inicializa o prepara los archivos que se encuentran en la carpeta
+d:Escriba: git status
+//Nos describe los archivos en color rojo que indican que estan listos para ser subidos a la rama deseada
+e:Escriba: git add . 
+//dejando un espacio entre el add y el punto ,despues del punto puede escribir el nombre del archivo especifico o con el * 
+que puede subir todos los archivos.
+f:git commit -m "first commit"
+//Es el commit a subir
+g:git branch -M main
+//Especificamos la rama donde iran los archivos
+h:git remote add origin https://github.com/FSV-lab/pasosGit.git
+//Especificamos en donde vamos a mandar  los archivos en nuestro repositorio de github
+i:git push -u origin main
+//Se sube el repositorio en la rama principal
+git pull origin "master" o "main"
+
+
+#Configuracion de Variables globales
+git config --global user.name "John Doe"
+git config --global user.email johndoe@example.com
+
+#Descargar un repositorio con la interfaz grafica de usuario
+
+#Descargar un reporsitorio con la linea de comandos
+
+#Subir un nuevo archivo con la interfaz grafica de usuario
+
+#Subir un nuevo archivo con la consola de comandos de git
+
