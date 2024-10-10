@@ -41,10 +41,11 @@ En el boton code "Download zip"
 #Descargar un reporsitorio con la consola de "linea de comandos"
 Abra la carpeta local en el disposito 
 Clic derecho git bash here
-
+git clone https://github.com/FSV-lab/pasosGit.git
 
 #Subir un nuevo archivo o nuevo commit con la interfaz grafica de usuario
 En la plataforma de github ,en el archivo 
 
 #Subir un nuevo archivo con la consola de comandos de git
+git pull origin "master" o "main"
 
