@@ -33,16 +33,17 @@ git config --global user.email johndoe@example.com
 #Verificacion de la configuracion de las variables globales
 git config --list
 
-#Descargar un repositorio con la interfaz grafica de usuario
+#Descargar un repositorio con la "interfaz grafica de usuario"
  //teclas acceso rapido 
 crtl + shit  + s
 En el boton code "Download zip"
 
-#Descargar un reporsitorio con la linea de comandos
+#Descargar un reporsitorio con la consola de "linea de comandos"
 Abra la carpeta local en el disposito 
 Clic derecho git bash here 
 
 #Subir un nuevo archivo con la interfaz grafica de usuario
+
 
 #Subir un nuevo archivo con la consola de comandos de git
 
