@@ -25,7 +25,6 @@ i:git push -u origin main
 //Se sube el repositorio en la rama principal
 git pull origin "master" o "main"
 
-
 #Configuracion de Variables globales
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
@@ -44,7 +43,8 @@ Clic derecho git bash here
 git clone https://github.com/FSV-lab/pasosGit.git
 
 #Subir un nuevo archivo o nuevo commit con la interfaz grafica de usuario
-En la plataforma de github ,en el archivo 
+Desde la plataforma github ubiquese en el repositorio  en el boton 
+En la plataforma de github ,en el archivo "created new file"
 
 #Subir un nuevo archivo con la consola de comandos de git
 git pull origin "master" o "main"
