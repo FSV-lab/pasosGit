@@ -6,13 +6,13 @@ Instalacion del git incluyendo su Path
 
 #Tercer paso Subir un Repositorio
 Ubicate en tu carpeta local de tu dispositivo o computadora
-a-Clic derecho Opebn Git Bash here
+a-Clic derecho Open git Bash here
 b-Se abre una consola de comandos
 c-Escriba: git init  
 //Este comando inicializa o prepara los archivos que se encuentran en la carpeta
-d:Escriba: git status
+d-git status
 //Nos describe los archivos en color rojo que indican que estan listos para ser subidos a la rama deseada
-e:Escriba: git add . 
+e-git add . 
 //dejando un espacio entre el add y el punto ,despues del punto puede escribir el nombre del archivo especifico o con el * 
 que puede subir todos los archivos.
 f:git commit -m "first commit"
@@ -34,11 +34,13 @@ git config --global user.email johndoe@example.com
 git config --list
 
 #Descargar un repositorio con la interfaz grafica de usuario
-
-#Descargar un reporsitorio con la linea de comandos
  //teclas acceso rapido 
 crtl + shit  + s
 En el boton code "Download zip"
+
+#Descargar un reporsitorio con la linea de comandos
+Abra la carpeta local en el disposito 
+Clic derecho git bash here 
 
 #Subir un nuevo archivo con la interfaz grafica de usuario
 
