@@ -36,6 +36,9 @@ git config --list
 #Descargar un repositorio con la interfaz grafica de usuario
 
 #Descargar un reporsitorio con la linea de comandos
+ //teclas acceso rapido 
+crtl + shit  + s
+En el boton code "Download zip"
 
 #Subir un nuevo archivo con la interfaz grafica de usuario
 
